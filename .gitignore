@@ -50,6 +50,8 @@ bun.lock
 **/public/fallback-*.js
 **/public/sw*
 **/public/workbox-*
+tsconfig.tsbuildinfo
+index.js
 
 # misc
 .DS_Store

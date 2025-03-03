@@ -1,6 +1,6 @@
 {
   "name": "@theiceji/compose-plugins",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "homepage": "https://github.com/Jirayu-ninl/theiceji-compose-plugins#readme",
   "description": "A utility to compose and manage Next.js plugins with advanced phase control",
